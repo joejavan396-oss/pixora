@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Pixora",
+    "slug": "pixora",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "scheme": "pixora",
+    "plugins": [
+      "expo-router"
+    ],
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "android": {
+      "package": "com.pixora.app",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.pixora.app",
+      "buildNumber": "1"
+    }
+  }
+}

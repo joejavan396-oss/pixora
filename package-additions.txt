@@ -1,0 +1,9 @@
+The required dependencies are already declared in package.json.
+
+Run:
+
+  npm install
+
+Then start Pixora with:
+
+  npx expo start
